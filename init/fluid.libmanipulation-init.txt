@@ -16,3 +16,4 @@ max objectfile fluid.datasetquery~ fluid.libmanipulation fluid.datasetquery~;
 max objectfile fluid.mlpregressor~ fluid.libmanipulation fluid.mlpregressor~;
 max objectfile fluid.mlpclassifier~ fluid.libmanipulation fluid.mlpclassifier~;
 max objectfile fluid.polynomialregressor~ fluid.libmanipulation fluid.polynomialregressor~;
+max objectfile fluid.splineregressor~ fluid.libmanipulation fluid.splineregressor~;
